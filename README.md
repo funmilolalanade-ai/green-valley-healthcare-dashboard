@@ -1,83 +1,52 @@
-# Green Valley Medical Center — Excel Dashboard Project
+## Patient Treatment & Recovery Analysis
 
-Presentation-ready healthcare analytics project built in **Microsoft Excel** using patient-level hospital data from **400 records**.
+## Project Title
+**Green Valley Medical Center – Patient Treatment & Recovery Analysis**
 
-## Project overview
+## Author
+**Olufunmilola Lanade**  
+Healthcare Data Analyst
 
-This project transforms raw patient data into a polished Excel dashboard that helps stakeholders analyze:
+## Project Overview
+This project analyses patient treatment and recovery data for Green Valley Medical Center using Microsoft Excel. The aim was to transform raw patient records into an interactive dashboard and stakeholder-ready insight report.
 
-- patient recovery performance
-- treatment cost patterns
-- hospital stay duration
-- department performance
-- doctor performance
+The analysis focuses on recovery scores, treatment costs, hospital stay duration, physician performance, patient demographics, and operational efficiency.
 
-## Dashboard preview
-
-![Dashboard preview](assets/dashboard_preview.png)
-
-## Files in this repo
-
-- `dashboard/Green_Valley_Medical_Center_Dashboard.xlsx` — final Excel dashboard workbook
-- `data/hospital_patient_dataset_400.xlsx` — source dataset
-- `presentation/Healthcare_Capstone_Presentation.pptx` — presentation deck
-- `assets/dashboard_preview.png` — dashboard image for portfolio display
-
-## Tools used
-
+## Tools Used
 - Microsoft Excel
-- Formulas
-- Derived columns
-- Summary tables
-- Charts
-- Dashboard design & formatting
+- Pivot Tables
+- Slicers
+- Dynamic Charts
+- Data Cleaning
+- Dashboard Design
+- Healthcare KPI Analysis
 
-## KPIs in the dashboard
+## Key KPIs
+- Patient Count: 400
+- Average Treatment Cost: £5,051.53
+- Average Patient Age: 45
+- Average Stay: 5 days
+- Average Recovery Score: 75.34
 
-- **Total Patients:** 400
-- **Avg Recovery Score:** 75.3
-- **Avg Treatment Cost:** $5,051.52
-- **Avg Hospital Stay:** 5.4 days
+## Key Insights
+- Dermatology achieved the highest recovery performance.
+- Cardiology recorded the lowest recovery score and requires operational review.
+- Surgery produced the highest recovery outcomes but also created higher cost and hospital stay pressure.
+- Low-cost treatment groups achieved strong recovery outcomes, showing opportunity for cost optimisation.
+- Teenagers showed weaker recovery outcomes and may require targeted pathway review.
 
-## Key insights
+## Business Impact
+This project demonstrates how healthcare analytics can support better patient outcomes, improve operational efficiency, reduce avoidable cost pressure, and guide evidence-based clinical decision-making.
 
-- **Top recovery department:** Dermatology
-- **Largest patient volume department:** Dermatology
-- **Top recovery doctor:** Dr. Johnson
-- **Highest-cost treatment type:** Surgery
+## Dashboard Preview
+![Green Valley Dashboard](images/greenvalley-dashboard.jpeg)
 
-### Recovery category mix
-- Poor: 71
-- Good: 171
-- Excellent: 158
+## Full Report
+[View Full PDF Report](image/Olufunmilola_Lanade_McKinsey_Portfolio.pdf)
 
-## Recommended dashboard story
-
-1. Start with the KPI cards to summarize patient outcomes and cost.
-2. Show which departments are driving stronger recovery.
-3. Compare treatment types by average cost.
-4. Highlight demographic distribution and department volume.
-5. Close with doctor-level recovery performance and recommendations.
-
-## Worksheet structure
-
-- **Dashboard** — presentation-ready executive dashboard
-- **Raw_Data** — source data plus derived columns
-- **Insights** — summary notes for presentation and portfolio write-up
-
-## Suggested presentation narrative
-
-Use the dashboard to explain how patient outcomes vary across departments, whether higher treatment cost translates into better recovery, and which doctors or departments may require closer performance review.
-
-## Portfolio value
-
-This project demonstrates:
-- healthcare analytics
-- Excel dashboard design
-- KPI definition
-- business storytelling with data
-- stakeholder-ready presentation output
-
+## Portfolio
+Created by **Olufunmilola Lanade**  
+Healthcare Data Analyst
 ## Author note
 
 Olufunmilola Lanade,www.linkedin.com/in/olufunmilola-lanade,https://github.com/funmilolalanade-ai/green-valley-healthcare-dashboard/tree/main.
